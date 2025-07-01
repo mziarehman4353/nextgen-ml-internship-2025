@@ -1,0 +1,5 @@
+## Task 1 – House Price Prediction
+
+- Dataset: California Housing Dataset (from sklearn)
+- Model: Linear Regression
+- Metric: MSE, R²
