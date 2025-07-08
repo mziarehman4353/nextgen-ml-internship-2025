@@ -23,12 +23,14 @@ This repository contains my weekly tasks during the 1-month Machine Learning Int
 \### ✅ Week 1
 
 \- \[Task 1 – House Price Prediction](./week-01/task-01-regression-house-prices)
+\- \[Task 2-classification-Titanic](./week-01/task-02-classification-titanic)
 
 
 
 \### 🔄 Week 2
 
-\- Task pending...
+### ✅ Week 2
+- [Task 1 – Customer Segmentation with K-Means](./week-02/task-01-customer-segmentation)
 
 
 
