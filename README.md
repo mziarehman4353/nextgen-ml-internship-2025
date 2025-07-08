@@ -31,6 +31,8 @@ This repository contains my weekly tasks during the 1-month Machine Learning Int
 
 ### ✅ Week 2
 - [Task 1 – Customer Segmentation with K-Means](./week-02/task-01-customer-segmentation)
+- - [Task 2 – Movie Recommendation using Clustering](./week-02/task-02-movie-recommendation)
+
 
 
 

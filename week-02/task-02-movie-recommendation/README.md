@@ -10,7 +10,9 @@ Use unsupervised learning to cluster similar movies based on genres and user rat
 
 \### 📁 Dataset:
 
-\- MovieLens 100k Dataset (or similar from Kaggle)
+\- MovieLens 100k Dataset (or similar from Kaggle)(> ⚠️ Dataset not included due to file size limits.
+> [Download rating.csv from MovieLens 100k](https://grouplens.org/datasets/movielens/100k/)
+)
 
 \- Features used:
 
